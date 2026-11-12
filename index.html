@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robyn's Realty | Robyn Buckwalter, Keller Williams South Valley</title>
+  <meta name="description" content="Robyn Buckwalter of Robyn's Realty helps people buy and sell homes in Utah with Keller Williams South Valley. Se habla español. Email Robyn for a free consultation.">
+  <link rel="icon" href="assets/find-your-nest.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <script>
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.addEventListener('load', function () { if (!location.hash) window.scrollTo(0, 0); });
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "name": "Robyn's Realty",
+    "employee": { "@type": "Person", "name": "Robyn Buckwalter" },
+    "email": "robynsrealty@gmail.com",
+    "areaServed": "Utah",
+    "knowsLanguage": ["en", "es"],
+    "parentOrganization": { "@type": "Organization", "name": "Keller Williams South Valley" },
+    "logo": "assets/robyns-realty-logo.png",
+    "image": "assets/robyn-buckwalter.jpg"
+  }
+  </script>
+  <style>
+    :root {
+      --egg-50: #F1FAFB; --egg-100: #DDF2F4; --egg-300: #8FD3DA; --egg-500: #2BA3AE; --egg-700: #136F78; --egg-900: #0B3F45;
+      --robin-500: #C0522A; --robin-700: #8E3518;
+      --nest-500: #6B4F37; --nest-900: #2E2218;
+      --cream-50: #FFFBF4; --white: #FFFFFF;
+      --radius-md: 12px; --radius-full: 999px;
+      --header-h: 88px;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-padding-top: var(--header-h); }
+    body {
+      margin: 0; background: var(--cream-50); color: var(--nest-900);
+      font-family: Figtree, system-ui, sans-serif; font-size: 18px; line-height: 1.6;
+    }
+    img { max-width: 100%; display: block; }
+    a { color: var(--egg-700); }
+    a:focus-visible { outline: 3px solid var(--egg-500); outline-offset: 3px; border-radius: 4px; }
+    .wrap { width: 100%; max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+
+    header { height: var(--header-h); display: flex; align-items: center; }
+    header img { width: 190px; height: auto; }
+
+    .hero { padding: 40px 0 72px; }
+    .hero .wrap { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 56px; align-items: center; }
+    h1 {
+      font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: clamp(2.25rem, 4.6vw, 3.5rem);
+      line-height: 1.1; letter-spacing: -0.01em; margin: 0 0 20px; color: var(--egg-900);
+    }
+    .hero p { margin: 0 0 16px; max-width: 34em; }
+    .badge {
+      display: inline-block; margin: 8px 0 28px; padding: 6px 14px; border-radius: var(--radius-full);
+      background: var(--egg-100); color: var(--egg-900); font-weight: 600; font-size: 0.95rem;
+    }
+    .btn {
+      display: inline-block; padding: 14px 26px; border-radius: var(--radius-full);
+      background: var(--egg-700); color: var(--white); font-weight: 600; text-decoration: none;
+      transition: background-color 0.2s ease;
+    }
+    .btn:hover { background: var(--egg-900); }
+    .email { display: block; margin-top: 14px; font-size: 0.95rem; }
+    .photo {
+      border-radius: 320px 320px var(--radius-md) var(--radius-md); overflow: hidden;
+      background: var(--egg-100); aspect-ratio: 4 / 5;
+    }
+    .photo img { width: 100%; height: 100%; object-fit: cover; }
+
+    .nest { background: var(--egg-50); padding: 64px 0; text-align: center; }
+    .nest img { width: 260px; height: auto; margin: 0 auto 20px; }
+    h2 { font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: 1.75rem; line-height: 1.2; margin: 0 0 12px; color: var(--egg-900); }
+    .nest p { margin: 0 auto; max-width: 34em; }
+
+    footer { padding: 32px 0 40px; font-size: 0.9rem; color: var(--nest-500); }
+    footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; }
+
+    .fade { animation: fade 0.6s ease both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; } .btn { transition: none; } }
+
+    @media (max-width: 800px) {
+      :root { --header-h: 72px; }
+      header img { width: 150px; }
+      .hero { padding: 16px 0 56px; }
+      .hero .wrap { grid-template-columns: 1fr; gap: 36px; }
+      .photo { max-width: 360px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a href="./" aria-label="Robyn's Realty home"><img src="assets/robyns-realty-logo.png" alt="Robyn's Realty" width="800" height="287"></a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <div class="fade">
+          <h1>Our new website is almost here</h1>
+          <p>I'm Robyn Buckwalter, a real estate agent with Keller Williams South Valley. I help people buy and sell homes in Utah.</p>
+          <p>While the new site is being built, you can still reach me. Email me for a free consultation.</p>
+          <span class="badge" lang="es">Se habla español</span>
+          <div>
+            <a class="btn" href="mailto:robynsrealty@gmail.com?subject=Free%20consultation">Email Robyn</a>
+            <a class="email" href="mailto:robynsrealty@gmail.com">robynsrealty@gmail.com</a>
+          </div>
+        </div>
+        <div class="photo fade">
+          <img src="assets/robyn-buckwalter.jpg" alt="Robyn Buckwalter" width="666" height="1000">
+        </div>
+      </div>
+    </section>
+
+    <section class="nest">
+      <div class="wrap">
+        <img src="assets/find-your-nest.png" alt="Find Your Nest" width="800" height="580">
+        <h2>Buying or selling a home</h2>
+        <p>Buyer and seller guides, listings and more are coming to the new site soon.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>&copy; 2026 Robyn's Realty</span>
+      <span>Keller Williams South Valley</span>
+    </div>
+  </footer>
+</body>
+</html>
