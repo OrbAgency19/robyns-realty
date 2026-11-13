@@ -1,4 +1,20 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/faq", "destination": "/resources", "permanent": true },
+    { "source": "/vendors", "destination": "/resources", "permanent": true },
+    { "source": "/preparing-to-buy", "destination": "/buy", "permanent": true },
+    { "source": "/log-in", "destination": "/", "permanent": true },
+    { "source": "/sign-up", "destination": "/", "permanent": true },
+    { "source": "/reset-password", "destination": "/", "permanent": true },
+    { "source": "/update-password", "destination": "/", "permanent": true },
+    { "source": "/user-account", "destination": "/", "permanent": true },
+    { "source": "/access-denied", "destination": "/", "permanent": true },
+    { "source": "/style-guide", "destination": "/", "permanent": true },
+    { "source": "/open-houses/:slug*", "destination": "/buy", "permanent": true },
+    { "source": "/post/:slug*", "destination": "/resources", "permanent": true },
+    { "source": "/work/:slug*", "destination": "/", "permanent": true },
+    { "source": "/categories/:slug*", "destination": "/resources", "permanent": true }
+  ]
 }

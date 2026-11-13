@@ -33,7 +33,25 @@
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: radial-gradient(ellipse 60% 50% at 50% 50%, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.12) 70%, rgba(0, 0, 0, 0) 100%);
+  /* top band behind the logo, center shade behind the headline, bottom band behind the buttons */
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.42), rgba(0, 0, 0, 0) 20%),
+    linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) 35%),
+    radial-gradient(ellipse 70% 55% at 50% 50%, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.15) 75%, rgba(0, 0, 0, 0) 100%);
+}
+
+/* Hero sub-line (name | KW South Valley | REALTOR) was dark grey on the photo: make it white and a touch heavier */
+.home-hero-left .text-span-2,
+.home-hero-left .text-color-grey.header {
+  color: #fff;
+  font-weight: 500;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.6);
+}
+/* Hero buttons: keep thin type readable on the bright floor */
+.home-hero-bottom .text-size-tiny-2,
+.home-hero-bottom .text-size-tiny,
+.home-hero-bottom a {
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.55);
 }
 
 /* About hero: centered shade behind "Meet Robyn" */
@@ -96,4 +114,14 @@ html {
   scroll-padding-top: 96px;
   background-color: #fff;
   color-scheme: light;
+}
+
+/* Tap-to-call and email links keep the surrounding text style */
+.rr-tel {
+  color: inherit;
+  text-decoration: none;
+}
+.rr-tel:hover,
+.rr-tel:focus-visible {
+  text-decoration: underline;
 }
