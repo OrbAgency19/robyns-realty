@@ -1771,7 +1771,7 @@ figcaption {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
   color: #000;
-  background-image: url('../images/38.png');
+  background-image: url('../images/38-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right: 1px solid #0000;
@@ -1790,39 +1790,39 @@ figcaption {
 }
 
 .navbar-link.buy {
-  background-image: url('../images/61.png');
+  background-image: url('../images/61-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right-color: #0000;
 }
 
 .navbar-link.sell {
-  background-image: url('../images/27.png');
+  background-image: url('../images/27-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right-color: #0000;
 }
 
 .navbar-link.about {
-  background-image: url('../images/75.png');
+  background-image: url('../images/75-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.contact {
-  background-image: url('../images/38.png');
+  background-image: url('../images/38-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.skyhaven {
-  background-image: url('../images/3_1.png');
+  background-image: url('../images/3_1-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.skyhaven.w--current {
-  background-image: url('../images/Screenshot-2024-02-02-at-1.29.22-PM.png');
+  background-image: url('../images/Screenshot-2024-02-02-at-1.29.22-PM-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -1832,43 +1832,43 @@ figcaption {
 }
 
 .navbar-link.skyhaven.coacing.featured {
-  background-image: url('../images/Screenshot-2024-02-01-at-3.13.28-PM.png');
+  background-image: url('../images/Screenshot-2024-02-01-at-3.13.28-PM-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.red-ledges {
-  background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min.png');
+  background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.red-ledges.w--current {
-  background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min.png');
+  background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.red-ledges.give-back {
-  background-image: url('../images/Britt-Kershner-Social-Images-5.png');
+  background-image: url('../images/Britt-Kershner-Social-Images-5-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.about-us, .navbar-link.about-us.w--current {
-  background-image: url('../images/58.png');
+  background-image: url('../images/58-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.home {
-  background-image: url('../images/22.png');
+  background-image: url('../images/22-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link.home.w--current {
-  background-image: url('../images/22.png');
+  background-image: url('../images/22-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -2403,7 +2403,7 @@ figcaption {
 .home-hero-left {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  background-image: url('../images/23.png');
+  background-image: url('../images/23-opt.jpg');
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
@@ -2416,13 +2416,13 @@ figcaption {
 }
 
 .home-hero-left.featured {
-  background-image: url('../images/38.png');
+  background-image: url('../images/38-opt.jpg');
   background-position: 0 0;
   background-size: cover;
 }
 
 .home-hero-left.featured.red-ledges {
-  background-image: url('../images/Screenshot-2023-06-22-at-6.02.54-PM-min.png');
+  background-image: url('../images/Screenshot-2023-06-22-at-6.02.54-PM-min-opt.jpg');
   background-position: 0 0;
   background-size: cover;
 }
@@ -2434,7 +2434,7 @@ figcaption {
 }
 
 .home-hero-left.featured.resources {
-  background-image: url('../images/Screenshot-2023-06-22-at-6.02.57-PM-min.png');
+  background-image: url('../images/Screenshot-2023-06-22-at-6.02.57-PM-min-opt.jpg');
 }
 
 .home-hero-left.featured.resources.left.open-house {
@@ -2444,7 +2444,7 @@ figcaption {
 }
 
 .home-hero-left.featured.resources.left.resource-page {
-  background-image: url('../images/35.png');
+  background-image: url('../images/35-opt.jpg');
   background-position: 50%;
   background-size: cover;
   padding-top: 2rem;
@@ -2751,7 +2751,7 @@ figcaption {
 }
 
 .about-hero-block.contact-page {
-  background-image: url('../images/Screenshot-2024-02-02-at-1.29.22-PM.png');
+  background-image: url('../images/Screenshot-2024-02-02-at-1.29.22-PM-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -3822,7 +3822,7 @@ figcaption {
 
 .skill-hero-right {
   z-index: 1;
-  background-image: url('../images/Screenshot-2023-01-16-at-9.57.24-PM-min.png');
+  background-image: url('../images/Screenshot-2023-01-16-at-9.57.24-PM-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
@@ -3841,7 +3841,7 @@ figcaption {
 }
 
 .skill-hero-right.give-back {
-  background-image: url('../images/Britt-Kershner-Social-Images-5.png');
+  background-image: url('../images/Britt-Kershner-Social-Images-5-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -4839,7 +4839,7 @@ figcaption {
 
 .content-card-l {
   background-color: var(--background-grey);
-  background-image: url('../images/35.png');
+  background-image: url('../images/35-opt.jpg');
   background-position: 50%;
   background-repeat: repeat;
   background-size: cover;
@@ -4940,7 +4940,7 @@ figcaption {
 .content-block {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
-  background-image: url('../images/Screenshot-2023-01-16-at-9.57.41-PM-min.png');
+  background-image: url('../images/Screenshot-2023-01-16-at-9.57.41-PM-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-radius: 0;
@@ -4956,7 +4956,7 @@ figcaption {
 }
 
 .content-block.sell-with-us {
-  background-image: url('../images/Screenshot-2023-01-16-at-10.20.59-PM-min.png');
+  background-image: url('../images/Screenshot-2023-01-16-at-10.20.59-PM-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -5188,7 +5188,7 @@ figcaption {
 
 .testimonial-image {
   background-color: var(--background-grey);
-  background-image: url('../images/72.png');
+  background-image: url('../images/72-opt.jpg');
   background-position: 0 0;
   background-size: cover;
   border: 0 solid #333338;
@@ -5236,7 +5236,7 @@ figcaption {
 .testimonial-block-a {
   background-color: var(--outline-dark);
   color: #1c1c1f;
-  background-image: url('../images/67.png');
+  background-image: url('../images/67-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-radius: 0;
@@ -5844,7 +5844,7 @@ figcaption {
 }
 
 .body.home-search {
-  background-image: url('../images/2_1.png');
+  background-image: url('../images/2_1-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -6109,7 +6109,7 @@ figcaption {
 
 .container-3 {
   background-color: #0d0d0d;
-  background-image: url('../images/38-min.png');
+  background-image: url('../images/38-min-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-radius: 0;
@@ -7244,7 +7244,7 @@ figcaption {
 
 .side-banner-2 {
   background-color: #d1d1d1;
-  background-image: url('../images/67.png');
+  background-image: url('../images/67-opt.jpg');
   background-position: 100% 100%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -10159,7 +10159,7 @@ figcaption {
 
 .form-section-fizz {
   background-color: #feeeee;
-  background-image: url('../images/Agentcy-Image-Bank-35.png');
+  background-image: url('../images/Agentcy-Image-Bank-35-opt.jpg');
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
@@ -11311,7 +11311,7 @@ figcaption {
 
 .side-banner-3 {
   background-color: #d1d1d1;
-  background-image: url('../images/Screenshot-2024-02-01-at-3.14.44-PM.png');
+  background-image: url('../images/Screenshot-2024-02-01-at-3.14.44-PM-opt.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11323,7 +11323,7 @@ figcaption {
 }
 
 .side-banner-3.oakmond {
-  background-image: url('../images/Screenshot-2024-02-02-at-1.28.26-PM.png');
+  background-image: url('../images/Screenshot-2024-02-02-at-1.28.26-PM-opt.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11505,7 +11505,7 @@ figcaption {
 .home-hero-left-2 {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  background-image: url('../images/1.png');
+  background-image: url('../images/1-opt.jpg');
   background-position: 0 0;
   background-size: cover;
   flex-direction: column;
@@ -11519,19 +11519,19 @@ figcaption {
 }
 
 .home-hero-left-2.featured {
-  background-image: url('../images/38.png');
+  background-image: url('../images/38-opt.jpg');
   background-position: 0 0;
   background-size: cover;
 }
 
 .home-hero-left-2.featured.sky-haven {
-  background-image: url('../images/Screenshot-2024-02-01-at-3.13.25-PM.png');
+  background-image: url('../images/Screenshot-2024-02-01-at-3.13.25-PM-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .home-hero-left-2.featured.sky-haven.oakmond {
-  background-image: url('../images/Screenshot-2024-02-02-at-1.28.23-PM.png');
+  background-image: url('../images/Screenshot-2024-02-02-at-1.28.23-PM-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -11551,7 +11551,7 @@ figcaption {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
   color: #000;
-  background-image: url('../images/38.png');
+  background-image: url('../images/38-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right: 1px solid #0000;
@@ -11570,26 +11570,26 @@ figcaption {
 }
 
 .navbar-link-2.buy {
-  background-image: url('../images/61.png');
+  background-image: url('../images/61-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right-color: #0000;
 }
 
 .navbar-link-2.about-us, .navbar-link-2.about-us.w--current {
-  background-image: url('../images/58.png');
+  background-image: url('../images/58-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link-2.home {
-  background-image: url('../images/22.png');
+  background-image: url('../images/22-opt.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .navbar-link-2.sell {
-  background-image: url('../images/27.png');
+  background-image: url('../images/27-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-right-color: #0000;
@@ -11597,7 +11597,7 @@ figcaption {
 
 .container-6 {
   background-color: #0d0d0d;
-  background-image: url('../images/2.png');
+  background-image: url('../images/2-opt.jpg');
   background-position: 50%;
   background-size: cover;
   border-radius: 0;
@@ -13272,7 +13272,7 @@ figcaption {
 
   .home-hero-left-2 {
     grid-row-gap: 2rem;
-    background-image: url('../images/1.png');
+    background-image: url('../images/1-opt.jpg');
     background-position: 50%;
     grid-template-rows: auto 1fr;
     padding-top: 9rem;
@@ -14302,7 +14302,7 @@ figcaption {
 
   .home-hero-left-2 {
     grid-row-gap: 1rem;
-    background-image: url('../images/1.png');
+    background-image: url('../images/1-opt.jpg');
     background-position: 50%;
   }
 
@@ -14688,7 +14688,7 @@ figcaption {
   }
 
   .navbar-link.buy {
-    background-image: url('../images/61.png');
+    background-image: url('../images/61-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -14700,7 +14700,7 @@ figcaption {
   }
 
   .navbar-link.sell {
-    background-image: url('../images/27.png');
+    background-image: url('../images/27-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border: 0 #000;
@@ -14711,7 +14711,7 @@ figcaption {
   }
 
   .navbar-link.contact {
-    background-image: url('../images/38.png');
+    background-image: url('../images/38-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border: 0 #000;
@@ -14724,7 +14724,7 @@ figcaption {
   }
 
   .navbar-link.skyhaven {
-    background-image: url('../images/3.png');
+    background-image: url('../images/3-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -14734,14 +14734,14 @@ figcaption {
   .navbar-link.red-ledges {
     border-width: 0;
     border-color: var(--white-smoke);
-    background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min.png');
+    background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min-opt.jpg');
     background-position: 50%;
     background-size: cover;
     grid-template-columns: auto;
   }
 
   .navbar-link.red-ledges.w--current {
-    background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min.png');
+    background-image: url('../images/Screenshot-2023-07-12-at-1.55.20-AM-min-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -14749,13 +14749,13 @@ figcaption {
   }
 
   .navbar-link.red-ledges.give-back.w--current {
-    background-image: url('../images/Britt-Kershner-Social-Images-5.png');
+    background-image: url('../images/Britt-Kershner-Social-Images-5-opt.jpg');
     background-position: 50%;
     background-size: cover;
   }
 
   .navbar-link.about-us {
-    background-image: url('../images/58.png');
+    background-image: url('../images/58-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -14764,20 +14764,20 @@ figcaption {
   .navbar-link.about-us.w--current {
     border-width: 0;
     border-color: var(--black);
-    background-image: url('../images/58.png');
+    background-image: url('../images/58-opt.jpg');
     background-position: 50%;
     background-size: cover;
   }
 
   .navbar-link.home {
-    background-image: url('../images/22.png');
+    background-image: url('../images/22-opt.jpg');
     background-position: 50%;
     background-size: cover;
     margin-top: 0;
   }
 
   .navbar-link.home.w--current {
-    background-image: url('../images/22.png');
+    background-image: url('../images/22-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -14955,7 +14955,7 @@ figcaption {
   }
 
   .about-hero-block {
-    background-image: url('../images/30.png');
+    background-image: url('../images/30-opt.jpg');
     background-position: 50%;
     background-size: cover;
     padding-top: 4rem;
@@ -15309,7 +15309,7 @@ figcaption {
   }
 
   .content-block {
-    background-image: url('../images/1.png');
+    background-image: url('../images/1-opt.jpg');
     background-position: 50%;
     background-size: cover;
     justify-content: center;
@@ -15356,7 +15356,7 @@ figcaption {
   }
 
   .testimonial-block-a {
-    background-image: url('../images/67.png');
+    background-image: url('../images/67-opt.jpg');
     background-position: 50%;
     background-size: cover;
     padding: 72px 24px 48px;
@@ -16519,7 +16519,7 @@ figcaption {
   }
 
   .home-hero-left-2 {
-    background-image: url('../images/1.png');
+    background-image: url('../images/1-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-bottom-right-radius: 0;
@@ -16533,7 +16533,7 @@ figcaption {
   }
 
   .navbar-link-2.contact {
-    background-image: url('../images/38.png');
+    background-image: url('../images/38-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border: 0 #000;
@@ -16546,7 +16546,7 @@ figcaption {
   }
 
   .navbar-link-2.buy {
-    background-image: url('../images/61.png');
+    background-image: url('../images/61-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
@@ -16558,14 +16558,14 @@ figcaption {
   }
 
   .navbar-link-2.about-us {
-    background-image: url('../images/58.png');
+    background-image: url('../images/58-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
   }
 
   .navbar-link-2.about-us.w--current {
-    background-image: url('../images/58.png');
+    background-image: url('../images/58-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-width: 0;
@@ -16573,21 +16573,21 @@ figcaption {
   }
 
   .navbar-link-2.home {
-    background-image: url('../images/22.png');
+    background-image: url('../images/22-opt.jpg');
     background-position: 50%;
     background-size: cover;
     margin-top: 0;
   }
 
   .navbar-link-2.home.w--current {
-    background-image: url('../images/22.png');
+    background-image: url('../images/22-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border-style: none;
   }
 
   .navbar-link-2.sell {
-    background-image: url('../images/27.png');
+    background-image: url('../images/27-opt.jpg');
     background-position: 50%;
     background-size: cover;
     border: 0 #000;
