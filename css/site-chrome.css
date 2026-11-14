@@ -317,3 +317,12 @@ body.rr-lock { overflow: hidden; }
 }
 .rr-big-link:focus { outline: none; }
 .rr-big-link:focus-visible { outline: none; color: #fff; }
+.rr-footer-es {
+  margin: 1rem 0 0;
+  font-family: Sentient, Georgia, serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--rr-ink);
+}
+.rr-soon { font-style: italic; opacity: .7; }
+[class*="waves---heading"] { font-family: Alta, Georgia, serif; font-weight: 400; }
