@@ -10,6 +10,8 @@ Branch `rebuild/webflow-export`: her original Webflow site, exported 2026-11-13 
 - `vercel.json`: clean URLs, so `/about` serves `about.html` like the old site.
 - `assets/`: Robyn's new logo files (not used on these pages yet).
 
-Not working yet off Webflow: the contact, sell and guide download forms still post to Webflow. They need a form service before launch.
+- `buyers-guide.html`, `sellers-guide.html`: Robyn's buyer and seller guides as web pages, copy from her own guide docs (Oct 6, 2026 emails). Styles in `css/guides.css`. Linked from the Resources download blocks.
+
+Forms: `js/forms.js` sends every form (contact, sell, guide downloads, featured listings) to Web3Forms, which emails robynsrealty@gmail.com. Set `ACCESS_KEY` in that file to her Web3Forms key; until it is set the script does nothing.
 
 Design system and directions: https://www.figma.com/design/SMpVfFgGmq0HPg9ypMFpfC/Robyn-Buckwalter
