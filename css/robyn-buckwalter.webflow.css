@@ -324,7 +324,7 @@
 body {
   background-color: var(--background-grey);
   color: #000;
-  font-family: Sentient, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1rem;
   font-weight: 200;
   line-height: 1.5;
@@ -830,7 +830,7 @@ figcaption {
 }
 
 .text-weight-semibold {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 500;
 }
 
@@ -905,7 +905,7 @@ figcaption {
 }
 
 .heading-style-h3 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 2.8rem;
   font-weight: 300;
   line-height: 1.2;
@@ -918,21 +918,21 @@ figcaption {
 .heading-style-h3.specialty {
   color: var(--black);
   padding-bottom: 10px;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
 .text-rich-text h1 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
 .text-rich-text h2, .text-rich-text h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
 }
 
@@ -948,7 +948,7 @@ figcaption {
 
 .text-rich-text p {
   margin-bottom: 1rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -981,7 +981,7 @@ figcaption {
   text-align: center;
   letter-spacing: .25vw;
   text-transform: none;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 6rem;
   font-weight: 400;
   line-height: 1.15;
@@ -995,7 +995,7 @@ figcaption {
   height: 100px;
   max-height: none;
   padding-top: 0;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 6rem;
   font-weight: 400;
   display: block;
@@ -1015,7 +1015,7 @@ figcaption {
 
 .heading-style-h1.about-us {
   color: var(--black);
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 3rem;
   font-weight: 400;
 }
@@ -1026,7 +1026,7 @@ figcaption {
 }
 
 .text-weight-normal {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 500;
 }
 
@@ -1040,7 +1040,7 @@ figcaption {
 }
 
 .text-weight-medium {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 600;
 }
 
@@ -1058,7 +1058,7 @@ figcaption {
 }
 
 .text-size-tiny {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .7rem;
   font-weight: 300;
 }
@@ -1072,7 +1072,7 @@ figcaption {
   color: var(--waves-library-black);
   text-align: center;
   text-transform: uppercase;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1rem;
   font-weight: 300;
 }
@@ -1080,18 +1080,18 @@ figcaption {
 .text-size-tiny.text-style-allcaps.navbar-text {
   color: var(--background-black);
   text-transform: uppercase;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .text-size-tiny.text-style-allcaps.home-category {
   color: var(--background-black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 1rem;
 }
 
 .text-size-tiny.text-style-allcaps._2 {
   color: var(--background-black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -1123,7 +1123,7 @@ figcaption {
 }
 
 .text-weight-light {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -1138,7 +1138,7 @@ figcaption {
 }
 
 .text-size-regular {
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 300;
@@ -1150,14 +1150,14 @@ figcaption {
   color: var(--background-black);
   text-align: left;
   margin-top: 10px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
 }
 
 .text-size-regular.text-color-grey.text-align-center {
   text-align: center;
   margin-top: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.25;
@@ -1231,7 +1231,7 @@ figcaption {
 
 .text-size-regular.text-color-grey.white {
   color: var(--black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
 }
 
@@ -1248,7 +1248,7 @@ figcaption {
 }
 
 .text-weight-xbold {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 700;
 }
 
@@ -1257,7 +1257,7 @@ figcaption {
 }
 
 .text-weight-bold {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 600;
 }
 
@@ -1290,7 +1290,7 @@ figcaption {
 }
 
 .text-size-small {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.6;
@@ -1298,13 +1298,13 @@ figcaption {
 
 .text-size-small.text-color-grey.specialty {
   color: var(--black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
 }
 
 .heading-style-h4 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.35rem;
   font-weight: 400;
   line-height: 1.4;
@@ -1315,7 +1315,7 @@ figcaption {
   text-align: left;
   margin-top: 20px;
   margin-bottom: 1rem;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 400;
@@ -1323,7 +1323,7 @@ figcaption {
 
 .form_label.sell-form {
   color: var(--background-black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1rem;
   font-style: normal;
 }
@@ -1406,7 +1406,7 @@ figcaption {
 }
 
 .text-size-large {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.9rem;
   font-weight: 400;
   line-height: 1.35;
@@ -1414,7 +1414,7 @@ figcaption {
 
 .text-size-large.menu {
   color: var(--black);
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
 }
 
@@ -1424,7 +1424,7 @@ figcaption {
 
 .heading-style-h2 {
   margin-top: 10px;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 2rem;
   font-style: normal;
   font-weight: 400;
@@ -1435,7 +1435,7 @@ figcaption {
   color: var(--tan);
   text-align: center;
   text-transform: none;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: normal;
   font-weight: 300;
   line-height: 1.2;
@@ -1444,7 +1444,7 @@ figcaption {
 .heading-style-h2.text-style-allcaps.text-align-center {
   border-bottom: 5px solid var(--tan);
   text-align: center;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 2.8rem;
   font-weight: 400;
 }
@@ -1473,7 +1473,7 @@ figcaption {
   border-bottom-color: var(--transparent-blue);
   color: var(--background-black);
   text-transform: uppercase;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 3rem;
   font-weight: 400;
 }
@@ -1512,7 +1512,7 @@ figcaption {
 }
 
 .heading-style-h5 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1568,7 +1568,7 @@ figcaption {
   align-items: center;
   min-height: 2.65rem;
   padding: .75rem .95rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 500;
   text-decoration: none;
   display: flex;
@@ -1597,7 +1597,7 @@ figcaption {
   margin-top: 20px;
   padding-top: .25rem;
   padding-bottom: .25rem;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 1.5rem;
   font-weight: 400;
 }
@@ -1612,7 +1612,7 @@ figcaption {
   border: 1px #000;
   border-radius: 0;
   padding: .4rem 1.3rem;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -1680,7 +1680,7 @@ figcaption {
 }
 
 .text-size-medium {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.25rem;
   font-weight: 400;
 }
@@ -1930,7 +1930,7 @@ figcaption {
   perspective: 200vw;
   color: var(--gainsboro-2);
   text-transform: capitalize;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 2vw;
   font-weight: 200;
   line-height: 100%;
@@ -2042,20 +2042,20 @@ figcaption {
 
 .letter-1 {
   color: var(--black);
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
 
 .letter-1.small-sized {
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 8rem;
   font-weight: 400;
 }
 
 .letter-2 {
   color: var(--black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
   display: inline-block;
 }
@@ -2066,38 +2066,38 @@ figcaption {
 
 .letter-3 {
   text-align: left;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
 
 .letter-4 {
   color: var(--black);
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
 
 .letter-4.small-sized {
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 8rem;
   font-weight: 400;
 }
 
 .letter-4.space {
   margin-right: 20px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .letter-5 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
 
 .letter-6 {
   color: var(--black);
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
@@ -2108,7 +2108,7 @@ figcaption {
 
 .letter-7 {
   color: var(--black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
   display: inline-block;
 }
@@ -2136,7 +2136,7 @@ figcaption {
   align-items: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: .5rem;
   font-weight: 300;
   display: flex;
@@ -2278,7 +2278,7 @@ figcaption {
 
 .fotter-menu-link {
   color: #000;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
   text-decoration: none;
 }
@@ -2474,7 +2474,7 @@ figcaption {
   text-align: center;
   border-radius: 999px;
   padding: 10px;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 1rem;
   font-weight: 300;
 }
@@ -3876,7 +3876,7 @@ figcaption {
 
 .hero-word-two {
   border-bottom: 0px solid var(--white-smoke);
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
   display: inline-block;
 }
@@ -3889,13 +3889,13 @@ figcaption {
 .hero-word-three.header {
   text-transform: capitalize;
   width: 100%;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 4.5rem;
   font-weight: 300;
 }
 
 .hero-word-three.header.featured {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 6rem;
   font-weight: 400;
 }
@@ -3928,13 +3928,13 @@ figcaption {
 }
 
 .word-one {
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   display: inline-block;
 }
 
 .word-one.buy {
   color: var(--black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 5rem;
   font-style: normal;
   font-weight: 400;
@@ -3946,14 +3946,14 @@ figcaption {
 
 .word-two.buy {
   color: var(--black);
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 5rem;
   font-style: normal;
   font-weight: 400;
 }
 
 .word-three {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 6rem;
   font-weight: 400;
   display: inline-block;
@@ -4784,7 +4784,7 @@ figcaption {
 .paragraph-small.text-color-gray-700 {
   color: var(--black);
   margin-bottom: 60px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .paragraph-small.text-weight-bold {
@@ -4989,7 +4989,7 @@ figcaption {
   letter-spacing: .05em;
   text-transform: uppercase;
   margin-top: 32px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
   line-height: 24px;
   text-decoration: underline;
@@ -5076,7 +5076,7 @@ figcaption {
   text-transform: uppercase;
   margin-bottom: 10px;
   padding-bottom: 10px;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: normal;
   font-weight: 400;
 }
@@ -5091,7 +5091,7 @@ figcaption {
 
 .paragraph-regular {
   letter-spacing: -.02em;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 24px;
@@ -5124,7 +5124,7 @@ figcaption {
 
 .h6-heading.text-color-white {
   color: #fff;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 21px;
   font-style: italic;
   font-weight: 400;
@@ -5182,7 +5182,7 @@ figcaption {
 .overline-2.text-color-purple {
   border-bottom: 1px solid var(--background-grey);
   color: var(--background-grey);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -5220,7 +5220,7 @@ figcaption {
 }
 
 .h4-heading-2.text-color-white.testimonial {
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 28px;
 }
 
@@ -5840,7 +5840,7 @@ figcaption {
 
 .body {
   background-color: var(--waves-library-white);
-  font-family: Dream Avenue, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .body.home-search {
@@ -5966,7 +5966,7 @@ figcaption {
   margin-top: 0;
   margin-bottom: 20px;
   padding-bottom: 10px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 32px;
   font-weight: 200;
   line-height: 34px;
@@ -5992,13 +5992,13 @@ figcaption {
 
 .brix---paragraph-default-2 {
   margin-bottom: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   line-height: 30px;
 }
 
 .brix---text-200-bold {
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
@@ -6017,7 +6017,7 @@ figcaption {
 .h2-heading-3.listing {
   border-bottom: 2px solid var(--gainsboro-2);
   text-transform: uppercase;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: normal;
   font-weight: 300;
 }
@@ -6055,7 +6055,7 @@ figcaption {
 .footer-copyright {
   color: #fafafa;
   padding-right: 10px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .main-footer {
@@ -6100,7 +6100,7 @@ figcaption {
 .footer-legal-link {
   color: var(--background-grey);
   margin-left: 24px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .footer-legal-link:hover {
@@ -6146,7 +6146,7 @@ figcaption {
 .text-block-4 {
   color: #fafafa;
   padding: 20px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.25rem;
   font-weight: 200;
 }
@@ -6350,7 +6350,7 @@ figcaption {
   color: #96c1ca;
   letter-spacing: 4px;
   margin-bottom: 20px;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 600;
 }
 
@@ -6367,7 +6367,7 @@ figcaption {
 .team-role {
   color: #000;
   margin-bottom: 40px;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   line-height: 26px;
 }
@@ -6434,7 +6434,7 @@ figcaption {
 .team-paragraph {
   color: var(--background-black);
   margin-bottom: 0;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   line-height: 28px;
 }
@@ -6476,14 +6476,14 @@ figcaption {
 }
 
 .gallery-title-large {
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 36px;
   font-weight: 400;
   line-height: 42px;
 }
 
 .gallery-title-large.red-ledges {
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: italic;
   font-weight: 400;
 }
@@ -6649,7 +6649,7 @@ figcaption {
 .t-paragraph-regular {
   letter-spacing: -.02em;
   margin-bottom: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -6741,7 +6741,7 @@ figcaption {
 }
 
 .bold-text-2.red-ledges {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -7258,7 +7258,7 @@ figcaption {
 .feature-text {
   color: var(--black);
   text-transform: none;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 50px;
   font-style: italic;
   font-weight: 400;
@@ -7440,19 +7440,19 @@ figcaption {
 
 .form-heading-2.staging {
   text-transform: none;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: italic;
   font-weight: 400;
 }
 
 .text-block-5, .text-block-6 {
   color: var(--background-black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
 .text-block-7 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -7575,7 +7575,7 @@ figcaption {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 300;
@@ -7739,7 +7739,7 @@ figcaption {
   color: var(--text-color);
   margin-top: 32px;
   margin-bottom: 24px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
@@ -7768,7 +7768,7 @@ figcaption {
   letter-spacing: -.03em;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Sentient, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 42px;
   font-style: normal;
   font-weight: 300;
@@ -7796,7 +7796,7 @@ figcaption {
 .quote-wrapper {
   justify-content: space-between;
   align-items: center;
-  font-family: Dream Avenue, sans-serif;
+  font-family: Sentient, Georgia, serif;
   display: flex;
 }
 
@@ -7872,7 +7872,7 @@ figcaption {
 .team-role-2 {
   border-bottom: 3px solid var(--outline-dark);
   color: var(--background-black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 24px;
@@ -8682,7 +8682,7 @@ figcaption {
 .overline-3 {
   letter-spacing: .08em;
   text-transform: uppercase;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 12px;
   font-weight: 300;
   line-height: 16px;
@@ -8777,7 +8777,7 @@ figcaption {
   min-height: 48px;
   margin-bottom: 10px;
   padding: 12px 12px 12px 48px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 24px;
@@ -8819,7 +8819,7 @@ figcaption {
   justify-content: center;
   align-items: center;
   padding: 12px 24px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 24px;
@@ -8875,7 +8875,7 @@ figcaption {
   letter-spacing: 0;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 1.2;
@@ -8897,7 +8897,7 @@ figcaption {
 .text-field-4 {
   border-radius: 99px;
   min-height: 48px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .section-large-3 {
@@ -9162,7 +9162,7 @@ figcaption {
   letter-spacing: -.04em;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 80px;
   font-weight: 300;
   line-height: 1.2;
@@ -9305,7 +9305,7 @@ figcaption {
 .button-2.navbar-button.featured-button {
   z-index: 0;
   width: 50%;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -9570,7 +9570,7 @@ figcaption {
   letter-spacing: -.03em;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.4;
@@ -9654,7 +9654,7 @@ figcaption {
   letter-spacing: -.03em;
   margin-top: 60px;
   margin-bottom: 30px;
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   font-weight: 500;
   line-height: 36px;
@@ -9732,7 +9732,7 @@ figcaption {
 }
 
 .article-header-small {
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   line-height: 32px;
 }
@@ -9749,7 +9749,7 @@ figcaption {
   border-left-width: 4px;
   border-left-color: #f7a9a0;
   margin: 32px 0;
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   line-height: 44px;
 }
@@ -9864,7 +9864,7 @@ figcaption {
   border-bottom: 1px solid #000;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: Alta, Georgia, serif;
   font-size: 36px;
   font-weight: 400;
   line-height: 1.2;
@@ -9944,22 +9944,22 @@ figcaption {
 }
 
 .heading-3, .heading-4 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
 }
 
 .heading-5 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
 .heading-6 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 500;
 }
 
 .heading-7, .heading-8 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 600;
 }
 
@@ -9967,7 +9967,7 @@ figcaption {
   border-bottom: 0px solid var(--white-smoke);
   color: var(--black);
   text-transform: uppercase;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 200;
@@ -10021,7 +10021,7 @@ figcaption {
 }
 
 .paragraph {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
 }
 
@@ -10036,7 +10036,7 @@ figcaption {
   margin-top: 0;
   margin-bottom: 16px;
   padding-bottom: 10px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 66px;
   font-style: normal;
   font-weight: 400;
@@ -10071,7 +10071,7 @@ figcaption {
 .brix---paragraph-default {
   text-align: right;
   margin-bottom: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 32px;
   font-weight: 300;
   line-height: 30px;
@@ -10179,7 +10179,7 @@ figcaption {
 }
 
 .text-span-4 {
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: italic;
   font-weight: 400;
 }
@@ -10195,12 +10195,12 @@ figcaption {
 }
 
 .italic-text-2 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-style: normal;
 }
 
 .italic-text-3 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 2rem;
   font-style: normal;
   font-weight: 400;
@@ -10221,7 +10221,7 @@ figcaption {
 .text-size-tiny-2.text-style-allcaps {
   color: #0d0d0e;
   letter-spacing: -.02rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1rem;
   font-weight: 300;
 }
@@ -10229,7 +10229,7 @@ figcaption {
 .text-size-tiny-2.text-style-allcaps.white {
   color: var(--white-smoke);
   text-transform: uppercase;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.25rem;
   font-weight: 300;
 }
@@ -10339,7 +10339,7 @@ figcaption {
 .text-block-17 {
   color: var(--black);
   text-align: center;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 3rem;
   font-weight: 300;
 }
@@ -10347,11 +10347,11 @@ figcaption {
 .text-block-17.badge {
   background-color: var(--tan);
   padding: 10px;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
 }
 
 .heading-9 {
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-style: italic;
   font-weight: 400;
 }
@@ -10374,7 +10374,7 @@ figcaption {
 .waves---paragraph-big {
   color: var(--waves-library-black);
   text-transform: uppercase;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 20px;
   font-weight: 300;
   line-height: 130%;
@@ -10384,7 +10384,7 @@ figcaption {
   color: var(--waves-library-black);
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Playfair Display, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   font-weight: 300;
   line-height: 120%;
@@ -10401,7 +10401,7 @@ figcaption {
 .waves---testimonial-text-big {
   width: 100%;
   color: var(--background-black);
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 130%;
@@ -10502,7 +10502,7 @@ figcaption {
 }
 
 .text-size-tiny-3 {
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .7rem;
   font-weight: 300;
 }
@@ -10520,7 +10520,7 @@ figcaption {
 
 .heading-style-h2-2 {
   text-transform: capitalize;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.35;
@@ -10579,7 +10579,7 @@ figcaption {
 }
 
 .text-size-regular-2 {
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.35rem;
   font-weight: 300;
   line-height: 1.55;
@@ -10600,7 +10600,7 @@ figcaption {
   text-align: left;
   width: 100%;
   margin-top: 10px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 18px;
 }
 
@@ -10621,7 +10621,7 @@ figcaption {
 
 .text-size-regular-2.text-color-grey.text-align-center.italics.sky-haven {
   text-align: left;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
@@ -10732,14 +10732,14 @@ figcaption {
 .waves---paragraph-regular {
   border-bottom: 2px solid #cfbfac40;
   padding-bottom: 20px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 130%;
 }
 
 .waves---paragraph-big-2 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 20px;
   line-height: 130%;
 }
@@ -10747,7 +10747,7 @@ figcaption {
 .waves---heading-3-no-margins-2 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 120%;
@@ -10788,7 +10788,7 @@ figcaption {
 .waves---heading-2-no-margins {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 48px;
   line-height: 130%;
 }
@@ -10886,7 +10886,7 @@ figcaption {
   align-items: center;
   height: 52px;
   padding: 8px 24px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
   transition: background-color .2s;
@@ -10909,7 +10909,7 @@ figcaption {
 .waves---heading-2-no-margins-2 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Sentient, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 42px;
   font-weight: 300;
   line-height: 130%;
@@ -11031,7 +11031,7 @@ figcaption {
 .heading-10 {
   color: #fff;
   text-transform: none;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -11053,7 +11053,7 @@ figcaption {
   color: #fff;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-family: Jost, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.5rem;
   font-weight: 300;
 }
@@ -11080,7 +11080,7 @@ figcaption {
 
 .text-block-21 {
   color: #0d0d0e;
-  font-family: Dream Avenue, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 2.5rem;
   font-weight: 400;
 }
@@ -11110,7 +11110,7 @@ figcaption {
 
 .text-block-22 {
   color: #0d0d0e;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -11128,7 +11128,7 @@ figcaption {
 
 .text-block-24 {
   color: #0d0d0e;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -11268,14 +11268,14 @@ figcaption {
 }
 
 .text-size-tiny-4 {
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .7rem;
   font-weight: 300;
 }
 
 .text-size-tiny-4.text-style-allcaps {
   color: #0d0d0e;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .word-three-2 {
@@ -11299,7 +11299,7 @@ figcaption {
 }
 
 .text-size-large-2 {
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 1.9rem;
   font-weight: 300;
   line-height: 1.35;
@@ -11360,7 +11360,7 @@ figcaption {
 }
 
 .hero-word-one-2.featured.sky-haven {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 3.75rem;
   font-weight: 400;
 }
@@ -11375,7 +11375,7 @@ figcaption {
   align-items: center;
   min-height: 2.65rem;
   padding: .75rem .95rem;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
   text-decoration: none;
   display: flex;
@@ -11465,7 +11465,7 @@ figcaption {
 
 .text-block-25 {
   color: #0d0d0e;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 400;
 }
 
@@ -11479,7 +11479,7 @@ figcaption {
 }
 
 .text-span-8 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 700;
 }
 
@@ -11661,7 +11661,7 @@ figcaption {
 }
 
 .text-span-7 {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 700;
 }
 
@@ -11689,7 +11689,7 @@ figcaption {
 }
 
 .bold-text-6 {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 28px;
   font-weight: 300;
 }
@@ -11710,7 +11710,7 @@ figcaption {
   width: 50%;
   margin-top: 20px;
   padding: 20px 57px;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.2;
@@ -11733,7 +11733,7 @@ figcaption {
 
 .bold-text-7 {
   text-align: left;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 28px;
   font-weight: 300;
 }
@@ -11811,7 +11811,7 @@ figcaption {
 .footer-copyright-2 {
   color: #fafafa;
   padding-right: 10px;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .home-team-2 {
@@ -11820,14 +11820,14 @@ figcaption {
 
 .text-block-26 {
   color: #0d0d0e;
-  font-family: Alta Caption, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-weight: 300;
 }
 
 .text-block-27 {
   color: #fafafa;
   padding: 20px;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 400;
 }
 
@@ -12060,7 +12060,7 @@ figcaption {
 .field-label-4 {
   color: #0d0d0e;
   margin-bottom: 0;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: 24px;
   font-weight: 200;
   line-height: 1.4;
@@ -12080,7 +12080,7 @@ figcaption {
 }
 
 .heading-style-h2-3.text-style-allcaps.sky-haven {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 3rem;
   font-weight: 400;
 }
@@ -12122,7 +12122,7 @@ figcaption {
 }
 
 .bold-text-8 {
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 28px;
   font-weight: 300;
 }
@@ -12130,7 +12130,7 @@ figcaption {
 .feature-text-2 {
   color: #fff;
   text-transform: uppercase;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 50px;
   font-weight: 400;
   line-height: 60px;
@@ -12185,7 +12185,7 @@ figcaption {
   letter-spacing: -.03em;
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 64px;
   font-weight: 400;
   line-height: 1.2;
@@ -12227,7 +12227,7 @@ figcaption {
 .footer-legal-link-2 {
   color: #e9e8e4;
   margin-left: 24px;
-  font-family: Inter, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 .footer-legal-link-2:hover {
@@ -12298,7 +12298,7 @@ figcaption {
 
 .heading-11 {
   text-align: center;
-  font-family: Sentient, sans-serif;
+  font-family: Sentient, Georgia, serif;
 }
 
 @media screen and (min-width: 1440px) {
@@ -12309,7 +12309,7 @@ figcaption {
   .brix---heading-h3-size {
     border-bottom: 1px solid #fafafa;
     padding-bottom: 10px;
-    font-family: Alta, sans-serif;
+    font-family: Alta, Georgia, serif;
     font-size: 34px;
     font-style: normal;
     font-weight: 400;
@@ -16161,7 +16161,7 @@ figcaption {
   .brix---heading-h1-size {
     text-align: center;
     margin-bottom: 10px;
-    font-family: Montserrat, sans-serif;
+    font-family: Sentient, Georgia, serif;
     font-size: 28px;
     font-weight: 400;
     line-height: 32px;

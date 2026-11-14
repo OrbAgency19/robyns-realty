@@ -26,7 +26,7 @@
 }
 
 .rr-t-label {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .8rem;
   font-weight: 500;
   letter-spacing: .2em;
@@ -64,7 +64,7 @@
   margin: 0;
   padding: 0;
   border-left: 0;
-  font-family: Sentient, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-weight: 300;
   font-size: clamp(1.1rem, 1.5vw, 1.35rem);
   line-height: 1.65;
@@ -78,7 +78,7 @@
 }
 .rr-t-name {
   display: block;
-  font-family: Alta, sans-serif;
+  font-family: Alta, Georgia, serif;
   font-size: 1.6rem;
   line-height: 1.2;
   color: #000;
@@ -86,7 +86,7 @@
 .rr-t-role {
   display: block;
   margin-top: .35rem;
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .75rem;
   font-weight: 500;
   letter-spacing: .18em;
@@ -143,7 +143,7 @@
   background-color: #000;
 }
 .rr-t-count {
-  font-family: Montserrat, sans-serif;
+  font-family: Sentient, Georgia, serif;
   font-size: .75rem;
   font-weight: 500;
   letter-spacing: .14em;
