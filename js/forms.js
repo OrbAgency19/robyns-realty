@@ -2,7 +2,7 @@
    Submissions are emailed to the inbox the access key was created for (robynsrealty@gmail.com).
    The access key is public by design; Web3Forms only ever sends to the key's own inbox. */
 (function () {
-  var ACCESS_KEY = "WEB3FORMS_ACCESS_KEY";
+  var ACCESS_KEY = "f73654a2-93af-4535-a4dd-458e57ef179f";
   if (!ACCESS_KEY || ACCESS_KEY.indexOf("WEB3FORMS") === 0) return; // not configured yet
 
   function formName(form) {

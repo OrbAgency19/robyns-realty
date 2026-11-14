@@ -12,6 +12,6 @@ Branch `rebuild/webflow-export`: her original Webflow site, exported 2026-11-13 
 
 - `buyers-guide.html`, `sellers-guide.html`: Robyn's buyer and seller guides as web pages, copy from her own guide docs (Oct 6, 2026 emails). Styles in `css/guides.css`. Linked from the Resources download blocks.
 
-Forms: `js/forms.js` sends every form (contact, sell, guide downloads, featured listings) to Web3Forms, which emails robynsrealty@gmail.com. Set `ACCESS_KEY` in that file to her Web3Forms key; until it is set the script does nothing.
+Forms: `js/forms.js` sends every form (contact, sell, guide downloads, featured listings) to Web3Forms, which emails robynsrealty@gmail.com. The Web3Forms access key is set in that file.
 
 Design system and directions: https://www.figma.com/design/SMpVfFgGmq0HPg9ypMFpfC/Robyn-Buckwalter
