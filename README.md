@@ -15,3 +15,5 @@ Branch `rebuild/webflow-export`: her original Webflow site, exported 2026-11-13 
 Forms: `js/forms.js` sends every form (contact, sell, guide downloads, featured listings) to Web3Forms, which emails robynsrealty@gmail.com. The Web3Forms access key is set in that file.
 
 Design system and directions: https://www.figma.com/design/SMpVfFgGmq0HPg9ypMFpfC/Robyn-Buckwalter
+
+Site header, menu and footer (Nov 14, 2026): `css/site-chrome.css` + `js/site-chrome.js`, markup on every page. Header and menu adapted from BYQ "Fullscreen Overlay Navigation Bar" (altrum-navigation-bar-1), footer from BYQ "Large Nav Footer" (kelvin-footer-7), restyled in Robyn's type and a deep slate. Reading text uses Sentient at regular weight for legibility.
